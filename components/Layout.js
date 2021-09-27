@@ -2,7 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
 import utilStyles from "../styles/utils.module.css";
-import styles from "../styles/layout11.module.css";
+import styles from "../styles/layouts.module.css";
 
 const name = "Your Name";
 
